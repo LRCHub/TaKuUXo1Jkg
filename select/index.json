@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "トランスペアレント",
+  "base_artist": "Darwin's Waiting Room",
+  "createdAt": "2026-02-17T17:09:47.463022Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Transparent",
+      "artist": "Darwin's Waiting Room",
+      "has_synced": false,
+      "path": "select/pl_01_Transparent_Darwin's_Waiting_Room.txt"
+    }
+  ]
+}
